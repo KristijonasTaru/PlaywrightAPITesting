@@ -1,0 +1,33 @@
+Created API BODY
+{
+  bookingid: 2806,
+  booking: {
+    firstname: 'Justine',
+    lastname: 'Schinner',
+    totalprice: 725,
+    depositpaid: true,
+    bookingdates: { checkin: '2024-07-17', checkout: '2024-07-17' },
+    additionalneeds: 'livid pirate canine where thoughtfully what failing'
+  }
+}
+================GET=======================
+{
+  firstname: 'Justine',
+  lastname: 'Schinner',
+  totalprice: 725,
+  depositpaid: true,
+  bookingdates: { checkin: '2024-07-17', checkout: '2024-07-17' },
+  additionalneeds: 'livid pirate canine where thoughtfully what failing'
+}
+=========================================
+Token Nr is: 6b3f052a7bd4c34
+========Patch======================
+{
+  firstname: 'Kalnas',
+  lastname: 'Schinner',
+  totalprice: 725,
+  depositpaid: true,
+  bookingdates: { checkin: '2024-07-17', checkout: '2024-07-17' },
+  additionalneeds: 'livid pirate canine where thoughtfully what failing'
+}
+========Deleted======================

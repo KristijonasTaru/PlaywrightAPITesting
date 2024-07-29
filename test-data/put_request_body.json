@@ -1,0 +1,11 @@
+{
+    "firstname": "Updated Name",
+    "lastname": "Updated Lastname",
+    "totalprice": 10,
+    "depositpaid": true,
+    "bookingdates": {
+        "checkin": "2025-01-01",
+        "checkout": "2025-01-10"
+    },
+    "additionalneeds": "Hill of the King"
+}

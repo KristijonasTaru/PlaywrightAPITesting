@@ -1,0 +1,11 @@
+{
+  bookingid: 2761,
+  booking: {
+    firstname: 'Dynamic data',
+    lastname: 'New Last Name',
+    totalprice: 1420,
+    depositpaid: true,
+    bookingdates: { checkin: '2023-01-01', checkout: '2024-01-01' },
+    additionalneeds: 'Pen pineapple apple pen'
+  }
+}

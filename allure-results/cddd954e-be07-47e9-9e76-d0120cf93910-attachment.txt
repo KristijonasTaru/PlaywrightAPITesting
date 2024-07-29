@@ -1,0 +1,21 @@
+Created API BODY
+{
+  bookingid: 2835,
+  booking: {
+    firstname: 'Zachery',
+    lastname: 'Grant',
+    totalprice: 265,
+    depositpaid: true,
+    bookingdates: { checkin: '2024-07-17', checkout: '2024-07-18' },
+    additionalneeds: 'unwitting reek toward yoga if massive nor'
+  }
+}
+=======================================
+{
+  firstname: 'Zachery',
+  lastname: 'Grant',
+  totalprice: 265,
+  depositpaid: true,
+  bookingdates: { checkin: '2024-07-17', checkout: '2024-07-18' },
+  additionalneeds: 'unwitting reek toward yoga if massive nor'
+}

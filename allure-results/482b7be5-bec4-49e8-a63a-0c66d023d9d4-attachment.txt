@@ -1,0 +1,32 @@
+Created API BODY
+{
+  bookingid: 2814,
+  booking: {
+    firstname: 'Lucio',
+    lastname: 'Boyle',
+    totalprice: 864,
+    depositpaid: true,
+    bookingdates: { checkin: '2024-07-17', checkout: '2024-07-17' },
+    additionalneeds: 'edible ethernet gratefully fine above justly attainment'
+  }
+}
+=======================================
+{
+  firstname: 'Lucio',
+  lastname: 'Boyle',
+  totalprice: 864,
+  depositpaid: true,
+  bookingdates: { checkin: '2024-07-17', checkout: '2024-07-17' },
+  additionalneeds: 'edible ethernet gratefully fine above justly attainment'
+}
+=========================================
+Token Nr is: 9fbeecff16e0ae8
+========Patch======================
+{
+  firstname: 'Kalnas',
+  lastname: 'Boyle',
+  totalprice: 864,
+  depositpaid: true,
+  bookingdates: { checkin: '2024-07-17', checkout: '2024-07-17' },
+  additionalneeds: 'edible ethernet gratefully fine above justly attainment'
+}

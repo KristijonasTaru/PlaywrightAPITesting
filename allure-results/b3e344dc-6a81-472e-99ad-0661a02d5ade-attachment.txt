@@ -1,0 +1,31 @@
+Created API BODY
+{
+  bookingid: 2871,
+  booking: {
+    firstname: 'Lillie',
+    lastname: 'Blick',
+    totalprice: 574,
+    depositpaid: true,
+    bookingdates: { checkin: '2024-07-16', checkout: '2024-07-17' },
+    additionalneeds: 'excluding pfft receptor to times zowie monthly'
+  }
+}
+=======================================
+{
+  firstname: 'Lillie',
+  lastname: 'Blick',
+  totalprice: 574,
+  depositpaid: true,
+  bookingdates: { checkin: '2024-07-16', checkout: '2024-07-17' },
+  additionalneeds: 'excluding pfft receptor to times zowie monthly'
+}
+=========================================
+Token Nr is: b00eb626217a381
+{
+  firstname: 'Updated Name',
+  lastname: 'Updated Lastname',
+  totalprice: 10,
+  depositpaid: true,
+  bookingdates: { checkin: '2025-01-01', checkout: '2025-01-10' },
+  additionalneeds: 'Hill of the King'
+}
